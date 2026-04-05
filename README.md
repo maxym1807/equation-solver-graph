@@ -25,9 +25,10 @@
 **Результат:** `x = -5`, `x = 5` + график параболы с отмеченными корнями
 
 ## Скриншоты
-![Пример 1](https://github.com/user-attachments/assets/54452af0-d7a1-4c03-abc8-586feb9b12c0)
-![Пример 2](https://github.com/user-attachments/assets/a96ca256-695f-452c-865c-e4fadeca0edf)
-![Пример 3](https://github.com/user-attachments/assets/9f6a2395-ee67-4991-9cc4-0b9e13c6071c)
+![Пример 1](screenshots/Example1.jpg)
+![Пример графика 1](screenshots/Example2.jpg)
+![Пример 2](screenshots/Example3.jpg)
+![Пример графика 2](screenshots/Example4.jpg)
 
 ## Как запустить
 
