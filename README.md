@@ -35,3 +35,7 @@
 2. Установи библиотеки:
    ```bash
    pip install sympy matplotlib numpy
+3. Скачай файл `main.py`
+4. Запусти:
+   ```bash
+   python main.py
